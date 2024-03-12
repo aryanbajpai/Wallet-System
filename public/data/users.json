@@ -1,0 +1,13 @@
+{
+    "users" : [
+        {
+            "username" : "user1",
+            "nm" : "user1",
+            "email": "user1@gmail.com",
+            "ph" : "1234789945",
+            "password" : "pswd1",
+            "balance" : "1400.53",
+            "history" : ""
+        }
+    ]
+}
